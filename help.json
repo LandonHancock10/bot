@@ -1,0 +1,5 @@
+{
+  "description": "Displays this help message.",
+  "usage": "/help",
+  "example": "/help"
+}

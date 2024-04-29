@@ -1,0 +1,5 @@
+{
+  "description": "Sends an email to the specified recipient.",
+  "usage": "/email <recipient> <subject> <body>",
+  "example": "/email example@example.com \"Greetings\" \"Hello, how are you?\""
+}

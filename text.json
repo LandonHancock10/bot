@@ -1,0 +1,5 @@
+{
+  "description": "Sends a text message to the specified phone number.",
+  "usage": "/text <phoneNumber> \"Message content\"",
+  "example": "/text 1234567890 \"Hello, World!\""
+}

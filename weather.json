@@ -1,0 +1,5 @@
+{
+  "description": "Fetches the weather for the specified location or for Orem, Utah if no location is provided.",
+  "usage": "/weather [location]",
+  "example": "/weather New York"
+}

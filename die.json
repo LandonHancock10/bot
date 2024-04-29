@@ -1,0 +1,5 @@
+{
+  "description": "Shuts down the bot. (Use with caution)",
+  "usage": "/die",
+  "example": "/die"
+}

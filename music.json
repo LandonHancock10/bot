@@ -1,0 +1,5 @@
+{
+  "description": "Plays music in your voice channel. You must be in a voice channel.",
+  "usage": "/music <YouTube link or search term>",
+  "example": "/music Never Gonna Give You Up"
+}

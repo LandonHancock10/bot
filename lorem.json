@@ -1,0 +1,5 @@
+{
+  "description": "Generates a Lorem Ipsum text snippet.",
+  "usage": "/lorem",
+  "example": "/lorem"
+}

@@ -1,0 +1,5 @@
+{
+  "description": "Fetches a random dad joke.",
+  "usage": "/dadjoke",
+  "example": "/dadjoke"
+}
